@@ -1,6 +1,6 @@
 # Hi, I'm Devansh Tomar 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Node.js+%2F+Go+%2F+Python;Building+secure%2C+scalable+distributed+systems;MS+Computer+Science+%40+Arizona+State+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&letterSpacing=1px&duration=3000&pause=1200&color=2E9EF7&center=true&vCenter=true&width=750&height=35&lines=Backend+Engineer+%7C+Node.js+%2F+Go+%2F+Python;Building+secure%2C+scalable+distributed+systems;MS+Computer+Science+%40+Arizona+State+University)](https://git.io/typing-svg)
 
 Backend Engineer building secure, scalable systems — currently shipping Node.js APIs at DR Solutions, previously an MS in Computer Science at Arizona State University.
 
