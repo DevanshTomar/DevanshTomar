@@ -1,6 +1,6 @@
 # Hi, I'm Devansh Tomar 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&letterSpacing=1px&duration=3000&pause=1200&color=2E9EF7&center=true&vCenter=true&width=750&height=35&lines=Backend+Engineer+%7C+Node.js+%2F+Go+%2F+Python;Building+secure%2C+scalable+distributed+systems;MS+Computer+Science+%40+Arizona+State+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&letterSpacing=1px&duration=3000&pause=1200&color=2E9EF7&center=true&vCenter=true&width=900&height=50&lines=Backend+Engineer+%7C+Node.js+%2F+Go+%2F+Python;Building+secure%2C+scalable+distributed+systems;MS+Computer+Science+%40+Arizona+State+University)](https://git.io/typing-svg)
 
 Backend Engineer building secure, scalable systems — currently shipping Node.js APIs at DR Solutions, previously an MS in Computer Science at Arizona State University.
 
@@ -37,6 +37,5 @@ Asynchronous, fault-tolerant inference pipeline with a custom SQS-driven auto-sc
 
 ![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevanshTomar&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshTomar&layout=compact&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevanshTomar&hide_border=true)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DevanshTomar&theme=flat&no-frame=true&row=1&column=6)
