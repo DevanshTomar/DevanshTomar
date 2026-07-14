@@ -9,10 +9,10 @@
 
 </div>
 
-- 🔭 Backend Engineer @ DR Solutions — modular monolithic Node RESTful APIs & MongoDB/SQL data models for e-commerce and ERP systems
+- 🔭 Backend Engineer @ DR Solutions — Node.js APIs & MongoDB/SQL data models for e-commerce and ERP platforms
 - 🎓 MS Computer Science, Arizona State University (GPA 3.67/4.0)
-- ⚙️ Certified Kubernetes Application Developer (CNCF) · Red Hat Certified System Administrator · AWS Certified Cloud Practitioner
-- 🧠 Into distributed systems, event-driven architecture, and AI-assisted development workflows
+- ⚙️ CNCF Certified Kubernetes Application Developer · Red Hat Certified System Administrator · AWS Certified Cloud Practitioner
+- 🧠 Focused on distributed systems, event-driven architecture, and AI-assisted development
 
 ---
 
@@ -34,17 +34,13 @@
 ## Featured Projects
 
 **[Distributed Real-Time Leaderboard Data Pipeline](https://github.com/DevanshTomar/real-time-scoreboard)**
+
 `Go` `Apache Kafka` `gRPC` `Redis` `PostgreSQL` `Docker`
-Microservice-based leaderboard pipeline serving 500+ simultaneous connections at sub-11ms read latency, processing 1,000+ state updates/sec via Kafka with zero data loss.
+
+Microservice leaderboard pipeline serving 500+ simultaneous connections at sub-11ms read latency, processing 1,000+ state updates/sec via Kafka with zero data loss.
 
 **[Cloud-Native Event-Driven IOT Face Inference Pipeline](https://github.com/DevanshTomar/Multi_Tier_Face_Recognition_AWS)**
+
 `Python` `Flask` `PyTorch` `EC2` `S3` `SQS` `IAM` `CloudWatch`
-Asynchronous, fault-tolerant inference pipeline with a custom SQS-driven auto-scaling controller, processing 100 concurrent recognition requests in under 3 seconds.
 
----
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=DevanshTomar&theme=flat&no-frame=true&row=1&column=6)
-
-</div>
+Asynchronous, fault-tolerant inference pipeline with a custom auto-scaling controller, processing 100 concurrent recognition requests in under 3 seconds.
