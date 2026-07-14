@@ -1,8 +1,8 @@
 # Hi, I'm Devansh Tomar 👋
 
-Backend Engineer building secure, scalable systems — currently shipping Spring Boot APIs at DR Solutions, previously an MS in Computer Science at Arizona State University.
+Backend Engineer building secure, scalable systems — currently shipping Node.js APIs at DR Solutions, previously an MS in Computer Science at Arizona State University.
 
-- 🔭 Backend Engineer @ DR Solutions — modular monolithic Spring Boot APIs & SQL data models for e-commerce and ERP systems
+- 🔭 Backend Engineer @ DR Solutions — modular monolithic Node RESTful APIs & MongoDB/SQL data models for e-commerce and ERP systems
 - 🎓 MS Computer Science, Arizona State University (GPA 3.67/4.0)
 - ⚙️ Certified Kubernetes Application Developer (CNCF) · Red Hat Certified System Administrator · AWS Certified Cloud Practitioner
 - 🧠 Into distributed systems, event-driven architecture, and AI-assisted development workflows
@@ -10,12 +10,16 @@ Backend Engineer building secure, scalable systems — currently shipping Spring
 
 ## Tech Stack
 
-**Languages:** Java, Go, Python, SQL
-**Frameworks & Protocols:** Spring Boot, FastAPI, Gin, GORM, LangGraph, REST, GraphQL, gRPC, MCP
-**Data & Caching:** PostgreSQL, MongoDB, Redis, Pinecone
-**Cloud & DevOps:** AWS, Docker, Kubernetes, Apache Kafka, Git, GitHub Actions, RHEL Linux
-**Quality & Observability:** JUnit, Go testing, Pytest, AWS CloudWatch, TDD
-**AI-Assisted Dev:** Claude Code, Cursor, Warp, n8n, Postman, RAG
+![JavaScript](https://skillicons.dev/icons?i=js,ts,python,go,postgres,mongodb,redis,docker,kubernetes,aws,kafka,git,githubactions,linux)
+
+| Layer | Tools |
+|---|---|
+| Languages | JavaScript, TypeScript, Python, Go, SQL |
+| Frameworks & Protocols | Node.js, Mongoose, Drizzle, Gin, GORM, LangGraph, REST, GraphQL, gRPC, MCP |
+| Data & Caching | PostgreSQL, MongoDB, Redis, Pinecone |
+| Cloud & DevOps | AWS, Docker, Kubernetes, Apache Kafka, Git, GitHub Actions, RHEL Linux |
+| Quality & Observability | Vitest, Go testing, Pytest, AWS CloudWatch, TDD |
+| AI-Assisted Dev | Claude Code, Cursor, Warp, n8n, Postman, RAG |
 
 ## Featured Projects
 
@@ -31,3 +35,6 @@ Asynchronous, fault-tolerant inference pipeline with a custom SQS-driven auto-sc
 
 ![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevanshTomar&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshTomar&layout=compact&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevanshTomar&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=DevanshTomar&theme=flat&no-frame=true&row=1&column=6)
