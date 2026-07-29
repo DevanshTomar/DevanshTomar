@@ -2,14 +2,14 @@
 
 # Hi, I'm Devansh Tomar 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&letterSpacing=1px&duration=3000&pause=1200&color=2E9EF7&center=true&vCenter=true&width=900&height=50&lines=Backend+Engineer+%7C+Node.js+%2F+Go+%2F+Python;Building+secure%2C+scalable+distributed+systems;MS+Computer+Science+%40+Arizona+State+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&letterSpacing=1px&duration=3000&pause=1200&color=2E9EF7&center=true&vCenter=true&width=900&height=50&lines=Backend+Engineer+%7C+Java+%2F+Go+%2F+Python;Building+secure%2C+scalable+distributed+systems;MS+Computer+Science+%40+Arizona+State+University)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Email-tomardevansh2001%40gmail.com-2E9EF7?style=flat&logo=gmail&logoColor=white)](mailto:tomardevansh2001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tomardevansh01%40gmail.com-2E9EF7?style=flat&logo=gmail&logoColor=white)](mailto:tomardevansh01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Devansh_Tomar-2E9EF7?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-tomar-08/)
 
 </div>
 
-- 🔭 Backend Engineer @ DR Solutions — Node.js APIs & MongoDB/SQL data models for e-commerce and ERP platforms
+- 🔭 Backend Engineer @ DR Solutions — Java Spring Boot REST APIs & normalized SQL data models for e-commerce order/transaction services
 - 🎓 MS Computer Science, Arizona State University (GPA 3.67/4.0)
 - ⚙️ CNCF Certified Kubernetes Application Developer · Red Hat Certified System Administrator · AWS Certified Cloud Practitioner
 - 🧠 Focused on distributed systems, event-driven architecture, and AI-assisted development
@@ -18,16 +18,16 @@
 
 ## Tech Stack
 
-![JavaScript](https://skillicons.dev/icons?i=js,ts,python,go,postgres,mongodb,redis,docker,kubernetes,aws,kafka,git,githubactions,linux)
+![Java](https://skillicons.dev/icons?i=java,python,go,postgres,mongodb,redis,docker,kubernetes,aws,kafka,git,githubactions,linux)
 
 | Layer | Tools |
 |---|---|
-| Languages | JavaScript, TypeScript, Python, Go, SQL |
-| Frameworks & Protocols | Node.js, Mongoose, Drizzle, Gin, GORM, LangGraph, REST, GraphQL, gRPC, MCP |
+| Languages | Java, Python, Go, SQL |
+| Frameworks & Protocols | Spring Boot, FastAPI, Gin, GORM, LangChain, LangGraph, RESTful APIs, gRPC |
 | Data & Caching | PostgreSQL, MongoDB, Redis, Pinecone |
 | Cloud & DevOps | AWS, Docker, Kubernetes, Apache Kafka, Git, GitHub Actions, RHEL Linux |
-| Quality & Observability | Vitest, Go testing, Pytest, AWS CloudWatch, TDD |
-| AI-Assisted Dev | Claude Code, Cursor, Warp, n8n, Postman, RAG |
+| Quality & Observability | JUnit, Go testing, Pytest, AWS CloudWatch, TDD |
+| AI-Assisted Dev | Claude Code, Cursor IDE, Warp, n8n, Postman, RAG, MCP |
 
 ---
 
