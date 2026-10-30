@@ -18,7 +18,7 @@
 
 ## Tech Stack
 
-![Java](https://skillicons.dev/icons?i=java,python,go,postgres,mongodb,redis,docker,kubernetes,aws,kafka,git,githubactions,linux)
+![Java](https://skillicons.dev/icons?i=python,go,postgres,mongodb,redis,docker,kubernetes,aws,kafka,git,githubactions,linux)
 
 | Layer | Tools |
 |---|---|
