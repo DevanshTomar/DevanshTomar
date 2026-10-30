@@ -9,7 +9,7 @@
 
 </div>
 
-- 🔭 Backend Engineer @ DR Solutions — Java Spring Boot REST APIs & normalized SQL data models for e-commerce order/transaction services
+- 🔭 Software Engineer @ HeadSpin
 - 🎓 MS Computer Science, Arizona State University (GPA 3.67/4.0)
 - ⚙️ CNCF Certified Kubernetes Application Developer · Red Hat Certified System Administrator · AWS Certified Cloud Practitioner
 - 🧠 Focused on distributed systems, event-driven architecture, and AI-assisted development
