@@ -22,11 +22,11 @@
 
 | Layer | Tools |
 |---|---|
-| Languages | Java, Python, Go, SQL |
-| Frameworks & Protocols | Spring Boot, FastAPI, Gin, GORM, LangChain, LangGraph, RESTful APIs, gRPC |
+| Languages | Python, Go, SQL |
+| Frameworks & Protocols | FastAPI, Gin, GORM, LangChain, LangGraph, RESTful APIs, gRPC |
 | Data & Caching | PostgreSQL, MongoDB, Redis, Pinecone |
 | Cloud & DevOps | AWS, Docker, Kubernetes, Apache Kafka, Git, GitHub Actions, RHEL Linux |
-| Quality & Observability | JUnit, Go testing, Pytest, AWS CloudWatch, TDD |
+| Quality & Observability | Go testing, Pytest, AWS CloudWatch, TDD |
 | AI-Assisted Dev | Claude Code, Cursor IDE, Warp, n8n, Postman, RAG, MCP |
 
 ---
