@@ -9,7 +9,7 @@
 
 </div>
 
-- 🔭 Software Engineer @ HeadSpin
+- 🔭 Software Engineer @HeadSpin
 - 🎓 MS Computer Science, Arizona State University (GPA 3.67/4.0)
 - ⚙️ CNCF Certified Kubernetes Application Developer · Red Hat Certified System Administrator · AWS Certified Cloud Practitioner
 - 🧠 Focused on distributed systems, event-driven architecture, and AI-assisted development
